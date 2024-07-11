@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(assets/create-account-illo-header.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 500px;
+    height: 600px;
+}
+
+.relative{
+padding: 15px 90px 0px 40px ;
+white-space: nowrap;
+
+
+}
+    
+div{
+    background-color: black;
+    position:absolute;
+    top: 0;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    color: white;
+}
+
+
+
+h2{
+
+
+    padding: 75px 100px 10px 38px;
+    border-bottom: 1px solid white;
+  
+}
+
+.relative1{
+    color: white;
+   
+    background-color: blue;
+    text-align: center;
+    margin-right: 340px;
+    padding-top: 16px;
+padding-bottom: 16px;
+margin-top: 28px;
+}
+
+.demo4{
+    position: absolute;
+    border-bottom: 1px solid white;
+right: 15px ;
+top: 600px;
+
+   
+}
